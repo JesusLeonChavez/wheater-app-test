@@ -1,5 +1,4 @@
 import './App.css';
-import axios from 'axios';
 import Home from './pages/home/Home';
 
 function App() {
